@@ -8,6 +8,7 @@
 ///////////////////////////////////////////////////////////////////////
 //  Go to our homepage for info on how to build your own system      //
 //           https://chem.uncg.edu/croatt/flow-chemistry/            //
+//       For more info watch: https://youtu.be/R4Ohwhk47tg           //
 //                                                                   //
 //////////////////////DESCRIPTION OF THIS CODE/////////////////////////
 //                                                                   //
